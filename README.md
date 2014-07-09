@@ -10,3 +10,5 @@ A miscellaneous collection of data sets for Indianapolis, mostly cleaned up by m
 No. | Folder Name | Intro | Category | Format
 ----- | ------- | -------- | -------- | --------
 1 | Pacers Bikeshare | *bike station details* | GIS | geojson, json, csv, xlsx
+2 | GIS-Donut Counties | *GIS shapes of donut counties* | GIS | geojson, js
+3 | GIS-Indiana Counties | *GIS layers of Indiana counties* | GIS | shapefile
