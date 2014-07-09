@@ -2,9 +2,9 @@ IndyData
 ========
 
 ### Brief
-A miscellaneous collection of data sets for Indianapolis, mostly cleaned up by myself and updated infrequently.
+A miscellaneous collection of data sets for Indianapolis, cleaned up by myself, updated infrequently.
 
-*P.S. Indy needs to catch up on open data, seriously.*
+*Why I'm doing this: Indy needs to catch up on #OpenData, seriously.*
 
 ### Content
 No. | Folder Name | Intro | Category | Format
