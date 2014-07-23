@@ -5,6 +5,7 @@ IndyData
 A miscellaneous collection of data sets for Indianapolis, cleaned up by myself, updated infrequently.
 
 *Why I'm doing this: Indy needs to catch up on #OpenData, seriously.*
+
 ** Update July 23: Indiana has its own data hub with Socrata: https://socratadata.iot.in.gov/
 
 ### Content
